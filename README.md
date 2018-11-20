@@ -1,3 +1,3 @@
-# chenyiren.githup.com
+# chenyiren.github.io
 
  test github pages
